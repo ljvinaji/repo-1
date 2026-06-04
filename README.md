@@ -1,4 +1,4 @@
-# Moj Test Projekat
+sdf# Moj Test Projekat
 
 Ovo je jednostavan README fajl koji služi za testiranje repozitorijuma.
 
@@ -12,20 +12,22 @@ cxcv
 dfgdfg
 ssss
 dfg
-sdf
-asd
+sdfsdfsdffgh
+asddfgdfgsdf
 sdfsdfsdf
 sdf
 dfdfasd
 jhgdfg
+dfdfasddfgsdf
+jhg
 yui
 dfgsdf
-dfg
-ssss
-sss
+dfgsdf
+ssssvbcvb
+sssdfg
 sdf
 sdfsdfsdf
 sdf
 ggg
-dfg
+dfgsdfsdf
 sdf
