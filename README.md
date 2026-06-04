@@ -9,3 +9,4 @@ Ovo je jednostavan README fajl koji služi za testiranje repozitorijuma.
 ## Kako se pokreće
 Samo otvori glavni fajl u svom okruženju.
 cxcv
+dfgdfg
